@@ -1,0 +1,5 @@
+(rcs-backup :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("rcs-backup/*.el"))
+
+
