@@ -2,4 +2,10 @@
             :fetcher github
             :files ("rcs-backup/*.el"))
 
+(lotus-utils :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus-utils/*.el"))
 
+(lotus-helm :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus-helm/*.el"))
