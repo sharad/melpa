@@ -1,0 +1,2 @@
+
+(org-context-clock . [(20191027 1226) ((lotus-utils (1)) (org-clock-hooks (1)) (org-clock-wrapper (1)) (org-capture+ (1)) (org-onchange (1))) "org-context-clock" tar ((:commit . "265ac3374363388a036bac925b6aa7b112f1ca2a"))])
