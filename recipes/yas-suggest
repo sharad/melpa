@@ -1,0 +1,3 @@
+(yas-suggest :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/yas-suggest/*.el"))

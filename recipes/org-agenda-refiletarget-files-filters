@@ -1,0 +1,3 @@
+(org-agenda-refiletarget-files-filters :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-agenda-refiletarget-files-filters/*.el"))

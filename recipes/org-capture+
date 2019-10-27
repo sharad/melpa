@@ -1,0 +1,3 @@
+(org-capture+ :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-capture+/*.el"))

@@ -1,0 +1,3 @@
+(org-clock-unnamed-task :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-clock-unnamed-task/*.el"))

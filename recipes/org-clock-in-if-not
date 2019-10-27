@@ -1,0 +1,3 @@
+(org-clock-in-if-not :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-clock-in-if-not/*.el"))

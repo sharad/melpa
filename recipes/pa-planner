@@ -1,0 +1,3 @@
+(pa-planner :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/pa-planner/*.el"))

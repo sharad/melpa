@@ -1,0 +1,3 @@
+(lotus-notify :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/lotus-notify/*.el"))

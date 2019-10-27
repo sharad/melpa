@@ -1,0 +1,3 @@
+(tagging :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/tagging/*.el"))

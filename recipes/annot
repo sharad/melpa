@@ -1,0 +1,3 @@
+(annot :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/annot/*.el"))

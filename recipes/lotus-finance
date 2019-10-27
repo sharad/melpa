@@ -1,0 +1,3 @@
+(lotus-finance :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/lotus-finance/*.el"))

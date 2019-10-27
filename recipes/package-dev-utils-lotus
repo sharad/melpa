@@ -1,0 +1,3 @@
+(package-dev-utils-lotus :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/package-dev-utils-lotus/*.el"))

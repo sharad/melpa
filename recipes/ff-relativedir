@@ -1,0 +1,3 @@
+(ff-relativedir :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/ff-relativedir/*.el"))

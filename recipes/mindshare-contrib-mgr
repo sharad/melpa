@@ -1,0 +1,3 @@
+(mindshare-contrib-mgr :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/mindshare-contrib-mgr/*.el"))

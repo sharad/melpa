@@ -1,0 +1,3 @@
+(lotus-all :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/lotus-all/*.el"))

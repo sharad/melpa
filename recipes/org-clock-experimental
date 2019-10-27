@@ -1,0 +1,3 @@
+(org-clock-experimental :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-clock-experimental/*.el"))

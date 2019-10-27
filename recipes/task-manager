@@ -1,0 +1,3 @@
+(task-manager :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/task-manager/*.el"))

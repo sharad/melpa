@@ -1,0 +1,3 @@
+(frame-utils :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/frame-utils/*.el"))

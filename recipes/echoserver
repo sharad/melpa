@@ -1,0 +1,3 @@
+(echoserver :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/echoserver/*.el"))

@@ -1,0 +1,3 @@
+(publishing :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/publishing/*.el"))

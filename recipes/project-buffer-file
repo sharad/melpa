@@ -1,0 +1,3 @@
+(project-buffer-file :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/project-buffer-file/*.el"))

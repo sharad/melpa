@@ -1,0 +1,3 @@
+(org-clock-resolve-advanced :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-clock-resolve-advanced/*.el"))

@@ -1,0 +1,3 @@
+(rs-gnus-exts :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/rs-gnus-exts/*.el"))

@@ -1,0 +1,3 @@
+(debug-info :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/debug-info/*.el"))

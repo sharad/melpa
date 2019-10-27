@@ -1,0 +1,3 @@
+(org-onchange :repo "sharad/elpa-pkgs"
+            :fetcher github
+            :files ("lotus/org-onchange/*.el"))
