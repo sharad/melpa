@@ -12,7 +12,7 @@ Use and Maintainance
 ### Add to Your Repository List
 
 
-The published ELPA repository URL is [`https://sharad.github.io/melpa/elpa/`](https://sharad.github.io/melpa/elpa/).
+
 
 To use add following to your `init.el`:
 
@@ -23,5 +23,3 @@ To use add following to your `init.el`:
 ## Package listing
 
 [`listing.md`](listing.md).
-
-
