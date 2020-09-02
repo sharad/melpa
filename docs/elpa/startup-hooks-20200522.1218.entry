@@ -1,0 +1,2 @@
+
+(startup-hooks . [(20200522 1218) ((lotus-basic-utils (1))) "startup-hooks" tar ((:commit . "85bd06b01b73dd858eb64c6d75e314b467f476e1"))])
