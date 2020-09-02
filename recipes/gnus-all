@@ -1,3 +1,0 @@
-(gnus-all :repo "sharad/elpa-pkgs"
-            :fetcher github
-            :files ("lotus/gnus-all/*.el"))
