@@ -1,9 +1,10 @@
 
 
-topdir = .
-include  $(topdir)/makes/subdirs.mk
+topdir = ..
 
 ALL_TARGETS += index.html
+
+include  $(topdir)/makes/subdirs.mk
 
 archives = elpa/*
 

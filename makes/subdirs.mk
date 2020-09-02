@@ -8,7 +8,7 @@ CLEAN_TARGETS += $(SUBDIRS)
 
 CLEAN_OBJECTS +=
 
-include $(topdir)/makes/common.mk
+# include $(topdir)/makes/common.mk
 
 all: $(ALL_TARGETS) $(ALL_TARGETS_LAST)
 

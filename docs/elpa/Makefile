@@ -1,10 +1,10 @@
 
 
 topdir = ../..
-include  $(topdir)/makes/subdirs.mk
-
 
 ALL_TARGETS += index.html
+
+include  $(topdir)/makes/subdirs.mk
 
 archives = *
 
