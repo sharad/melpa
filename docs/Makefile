@@ -2,12 +2,18 @@
 
 topdir = ..
 
-ALL_TARGETS += index.html
+ALL_TARGETS += listing.md
 
-include  $(topdir)/makes/subdirs.mk
+# include  $(topdir)/makes/subdirs.mk
 
 archives = elpa/*
 
-index.html: $(archives)
-	tree -H . -L 2 --noreport --charset utf-8 > $@
+listing.md: $(archives)
+	echo 'packages' > $@
+	echo '========' >> $@
+	echo >> $@
+	for file in $^ ; do echo "    " + \[\`$$file\`\]\($$file\) ; done >> $@
+
+
+all: $(ALL_TARGETS)
 
