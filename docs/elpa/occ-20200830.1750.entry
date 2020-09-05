@@ -1,2 +1,2 @@
 
-(occ . [(20200830 1750) ((org (20191021)) (dash (1)) (lotus-utils (1)) (org-clock-unnamed-task (1)) (org-clock-resolve-advanced (1)) (org-clock-hooks (1)) (org-clock-wrapper (1)) (org-capture+ (1)) (org-onchange (1)) (switch-buffer-functions (1))) "occ" tar ((:commit . "85bd06b01b73dd858eb64c6d75e314b467f476e1"))])
+(occ . [(20200830 1750) ((org (20191021)) (dash (1)) (lotus-utils (1)) (org-clock-unnamed-task (1)) (org-clock-resolve-advanced (1)) (org-clock-hooks (1)) (org-clock-wrapper (1)) (org-capture+ (1)) (org-onchange (1)) (switch-buffer-functions (1))) "occ" tar ((:commit . "39b8d25be05e90be57d852833910b185283f3779"))])

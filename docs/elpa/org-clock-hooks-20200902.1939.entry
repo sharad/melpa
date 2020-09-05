@@ -1,0 +1,2 @@
+
+(org-clock-hooks . [(20200902 1939) ((lotus-utils (1)) (org-clock-daysummary (1))) "org-clock-hooks" tar ((:commit . "39b8d25be05e90be57d852833910b185283f3779"))])

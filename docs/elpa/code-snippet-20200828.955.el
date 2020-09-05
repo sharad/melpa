@@ -5,7 +5,7 @@
 ;; Author: s <sh4r4d _at_ Gmail>
 ;; Keywords: convenience
 ;; Package-Version: 20200828.955
-;; Package-Commit: 85bd06b01b73dd858eb64c6d75e314b467f476e1
+;; Package-Commit: 39b8d25be05e90be57d852833910b185283f3779
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
