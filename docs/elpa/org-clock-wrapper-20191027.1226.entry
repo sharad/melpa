@@ -1,2 +1,2 @@
 
-(org-clock-wrapper . [(20191027 1226) ((lotus-utils (1))) "org-clock-wrapper" tar ((:commit . "39b8d25be05e90be57d852833910b185283f3779"))])
+(org-clock-wrapper . [(20191027 1226) ((lotus-utils (1))) "org-clock-wrapper" tar ((:commit . "bd3eda6a252c5408d1865e5cc73d3c2ae19509bd"))])

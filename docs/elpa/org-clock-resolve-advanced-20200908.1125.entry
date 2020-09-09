@@ -1,0 +1,2 @@
+
+(org-clock-resolve-advanced . [(20200908 1125) ((lotus-utils (1))) "org-clock-resolve-advanced" tar ((:commit . "bd3eda6a252c5408d1865e5cc73d3c2ae19509bd"))])

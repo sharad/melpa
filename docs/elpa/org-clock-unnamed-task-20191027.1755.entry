@@ -1,2 +1,2 @@
 
-(org-clock-unnamed-task . [(20191027 1755) ((lotus-utils (1)) (org (20191021))) "org-clock-unnamed-task" tar ((:commit . "39b8d25be05e90be57d852833910b185283f3779"))])
+(org-clock-unnamed-task . [(20191027 1755) ((lotus-utils (1)) (org (20191021))) "org-clock-unnamed-task" tar ((:commit . "bd3eda6a252c5408d1865e5cc73d3c2ae19509bd"))])
