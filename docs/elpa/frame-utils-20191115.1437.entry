@@ -1,2 +1,2 @@
 
-(frame-utils . [(20191115 1437) ((buffer-utils (1)) (elscreen (1))) "frame-utils" tar ((:commit . "bd3eda6a252c5408d1865e5cc73d3c2ae19509bd"))])
+(frame-utils . [(20191115 1437) ((buffer-utils (1)) (elscreen (1))) "frame-utils" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
