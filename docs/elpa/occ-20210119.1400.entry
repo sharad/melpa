@@ -1,0 +1,28 @@
+(occ .
+     [(20210119 1400)
+      ((org
+	(20191021))
+       (dash
+	(1))
+       (lotus-utils
+	(1))
+       (org-clock-unnamed-task
+	(1))
+       (org-clock-resolve-advanced
+	(1))
+       (org-clock-hooks
+	(1))
+       (org-clock-wrapper
+	(1))
+       (org-capture+
+	(1))
+       (org-onchange
+	(1))
+       (switch-buffer-functions
+	(1)))
+      "occ" tar
+      ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+       (:authors
+	("sharad <>"))
+       (:maintainer "sharad <>")
+       (:keywords "convenience"))])

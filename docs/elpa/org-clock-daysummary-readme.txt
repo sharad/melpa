@@ -1,2 +1,6 @@
-put in .emacs
-(org-clock-work-day-mode-line-add t)
+;;; Commentary:
+;; put in .emacs
+;; (org-clock-work-day-mode-line-add t)
+
+;;
+

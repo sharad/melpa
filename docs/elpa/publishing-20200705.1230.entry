@@ -1,2 +1,8 @@
-
-(publishing . [(20200705 1230) nil "publishing for org and muse." tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(publishing .
+	    [(20200705 1230)
+	     nil "publishing for org and muse." tar
+	     ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+	      (:authors
+	       ("sharad <sh4r4d _at_ _G-mail_>"))
+	      (:maintainer "sharad <sh4r4d _at_ _G-mail_>")
+	      (:keywords "convenience" "data" "hypermedia" "wp"))])

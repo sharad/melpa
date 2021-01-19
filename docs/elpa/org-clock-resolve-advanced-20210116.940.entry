@@ -1,0 +1,10 @@
+(org-clock-resolve-advanced .
+			    [(20210116 940)
+			     ((lotus-utils
+			       (1)))
+			     "org-clock-resolve-advanced" tar
+			     ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+			      (:authors
+			       ("Sharad Pratap <sh4r4d _at_ _G-mail_>"))
+			      (:maintainer "Sharad Pratap <sh4r4d _at_ _G-mail_>")
+			      (:keywords "convenience"))])

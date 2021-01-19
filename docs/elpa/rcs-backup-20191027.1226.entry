@@ -1,2 +1,8 @@
-
-(rcs-backup . [(20191027 1226) nil "rcs backup" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(rcs-backup .
+	    [(20191027 1226)
+	     nil "rcs backup" tar
+	     ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+	      (:authors
+	       ("Sharad Pratap <sharad>"))
+	      (:maintainer "Sharad Pratap <sharad>")
+	      (:keywords "convenience"))])

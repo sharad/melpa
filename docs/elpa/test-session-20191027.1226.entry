@@ -1,2 +1,8 @@
-
-(test-session . [(20191027 1226) nil "test-session" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(test-session .
+	      [(20191027 1226)
+	       nil "test-session" tar
+	       ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+		(:authors
+		 ("sharad <sh4r4d _at_ _G-mail_>"))
+		(:maintainer "sharad <sh4r4d _at_ _G-mail_>")
+		(:keywords "convenience"))])

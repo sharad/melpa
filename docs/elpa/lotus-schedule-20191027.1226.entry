@@ -1,2 +1,8 @@
-
-(lotus-schedule . [(20191027 1226) nil "lotus-schedule" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(lotus-schedule .
+		[(20191027 1226)
+		 nil "lotus-schedule" tar
+		 ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+		  (:authors
+		   ("Sharad" . "sh4r4d@gmail.com"))
+		  (:maintainer "Sharad" . "sh4r4d@gmail.com")
+		  (:keywords "convenience"))])

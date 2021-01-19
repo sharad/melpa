@@ -1,1 +1,5 @@
-(add-hook 'after-init-hook #'startup-hooks-insinuate)
+;;; Commentary:
+
+;; (add-hook 'after-init-hook #'startup-hooks-insinuate)
+;;
+

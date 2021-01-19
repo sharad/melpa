@@ -1,2 +1,8 @@
-
-(buffer-utils . [(20191115 1437) ((ibuffer-vc (1)) (uniquify (1))) "buffer-utils" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(buffer-utils .
+	      [(20191115 1437)
+	       ((ibuffer-vc
+		 (1))
+		(uniquify
+		 (1)))
+	       "buffer-utils" tar
+	       ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f"))])

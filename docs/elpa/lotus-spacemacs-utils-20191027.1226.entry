@@ -1,2 +1,8 @@
-
-(lotus-spacemacs-utils . [(20191027 1226) nil "lotus-spacemacs-utils" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(lotus-spacemacs-utils .
+		       [(20191027 1226)
+			nil "lotus-spacemacs-utils" tar
+			((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+			 (:authors
+			  ("s" . "s@latitude-5480"))
+			 (:maintainer "s" . "s@latitude-5480")
+			 (:keywords "convenience"))])

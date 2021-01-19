@@ -1,1 +1,4 @@
-Project buffer file
+;;; Commentary:
+
+;; Project buffer file
+

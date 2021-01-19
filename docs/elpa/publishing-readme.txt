@@ -1,1 +1,4 @@
-Publishing related configuration.
+;;; Commentary:
+
+;; Publishing related configuration.
+

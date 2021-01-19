@@ -1,2 +1,5 @@
-
-(reader-mode . [(20191027 1226) nil "reader mode" tar ((:commit . "280bffa368e86c19d7dad736e15bbcf42922e3ed"))])
+(reader-mode .
+	     [(20191027 1226)
+	      nil "reader mode" tar
+	      ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+	       (:keywords "lisp"))])

@@ -1,0 +1,14 @@
+(org-capture+ .
+	      [(20210119 1400)
+	       ((helm
+		 (1))
+		(lotus-tree-manager
+		 (1))
+		(lotus-utils
+		 (1)))
+	       "org-capture+" tar
+	       ((:commit . "72637e1904cb8c38d843bb9c31192b95d483948f")
+		(:authors
+		 ("s <>"))
+		(:maintainer "s <>")
+		(:keywords "convenience"))])
