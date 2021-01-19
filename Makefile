@@ -1,10 +1,12 @@
 
 topdir = .
+ALL_TARGETS += update
+SUBDIRS    := docs
 include  $(topdir)/makes/subdirs.mk
 
-ALL_TARGETS += update
 
-update:
+
+update: .FORCE
 	cask exec github-elpa update
 
 build:
@@ -12,4 +14,8 @@ build:
 
 commit:
 	cask commit
+
+
+
+.FORCE:
 

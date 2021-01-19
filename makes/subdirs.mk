@@ -1,7 +1,7 @@
 
 
 TOPTARGETS := all clean
-SUBDIRS    := $(wildcard */.)
+# SUBDIRS    := $(wildcard */.)
 ALL_TARGETS += $(SUBDIRS)
 ALL_TARGETS_LAST +=
 CLEAN_TARGETS += $(SUBDIRS)
